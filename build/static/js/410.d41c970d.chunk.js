@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[410],{410:(e,c,n)=>{n.r(c),n.d(c,{default:()=>l});n(791);var s=n(184);const l=()=>(0,s.jsx)("div",{children:"Aman Dubey"})}}]);
+//# sourceMappingURL=410.d41c970d.chunk.js.map
